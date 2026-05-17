@@ -7,7 +7,7 @@ export default function Nav() {
 
   return (
     <div className="nav">
-      <h2>Shopify✨</h2>
+      <h2>Shopify-a demo shop✨</h2>
       <div>
         <Link to="/">Home</Link>
         <Link to="/cart">Cart ({cart.length})</Link>
